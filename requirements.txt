@@ -20,13 +20,13 @@ debugpy==1.5.1
 decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.4
-et-xmlfile==1.1.0
 executing==0.8.3
 gitdb==4.0.9
 GitPython==3.1.27
 idna==3.3
 importlib-metadata==4.11.3
 importlib-resources==5.4.0
+ipykernel==6.9.2
 ipython==8.1.1
 ipython-genutils==0.2.0
 ipywidgets==7.7.0
@@ -46,7 +46,6 @@ nbformat==5.2.0
 nest-asyncio==1.5.4
 notebook==6.4.10
 numpy==1.22.3
-openpyxl==3.0.9
 packaging==21.3
 pandas==1.4.1
 pandocfilters==1.5.0
@@ -89,7 +88,6 @@ tzdata==2022.1
 tzlocal==4.1
 urllib3==1.26.9
 validators==0.18.2
-watchdog==2.1.6
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.6.0
