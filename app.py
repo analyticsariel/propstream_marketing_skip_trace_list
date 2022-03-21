@@ -33,8 +33,8 @@ st.markdown('# PropStream Merge Leads and Contacts')
 st.markdown('_This tool merges the [Marketing List](https://www.propstream.com/how-to-save-a-marketing-list) and [Skip Tracing List](https://www.propstream.com/how-to-skiptrace-a-list#:~:text=Real%20estate%20professionals%20skip%20trace,on%20the%20%E2%80%9CContacts%E2%80%9D%20page.) in PropStreams._')
 
 # uploads
-mrk_list_upload_file = st.file_uploader('STEP 1: Upload Marketing List from PropStreams')
-contacts_list_upload_file = st.file_uploader('STEP 2: Upload Skip Tracing Contact List from PropStreams')
+mrk_list_upload_file = st.file_uploader('STEP 1: Upload Marketing List from PropStream')
+contacts_list_upload_file = st.file_uploader('STEP 2: Upload Skip Tracing Contact List from PropStream')
 
 # check if files are uploaded
 if mrk_list_upload_file is not None:
