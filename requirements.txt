@@ -4,3 +4,4 @@ streamlit==1.7.0
 click==8
 protobuf==3.20.1
 numpy==1.21.0
+altair==4.1.0
